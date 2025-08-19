@@ -1,4 +1,3 @@
-Main.md`
 ```markdown
 # Go Figure More - Project Setup
 
